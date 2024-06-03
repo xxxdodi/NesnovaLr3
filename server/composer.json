@@ -1,0 +1,8 @@
+{
+    "require": {
+        "silex/silex": "~2.0"
+    },
+    "platform": {
+        "php": "7.1.0"
+    }
+}

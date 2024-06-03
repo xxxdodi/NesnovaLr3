@@ -1,0 +1,30 @@
+[
+  {
+    "id": 1,
+    "subject": "Математический анализ",
+    "description": "ма",
+    "hours": "160",
+    "teacher": "Лосев А.Г."
+  },
+  {
+    "id": 2,
+    "subject": "Дифференциальные уравнения",
+    "description": "ду",
+    "hours": "110",
+    "teacher": "Лосев А.Г."
+  },
+  {
+    "id": 3,
+    "subject": "Дискретная математика",
+    "description": "дм",
+    "hours": "110",
+    "teacher": "Гермашев И.В."
+  },
+  {
+    "id": 4,
+    "subject": "C++",
+    "description": "пл",
+    "hours": "80",
+    "teacher": "Зенович А.В."
+  }
+]

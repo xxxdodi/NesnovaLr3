@@ -1,0 +1,22 @@
+[
+  {
+    "id": 1,
+    "teacher": "Лосев А.Г.",
+    "department": "МАТФ"
+  },
+  {
+    "id": 2,
+    "teacher": "Гермашев И.В.",
+    "department": "МАТФ"
+  },
+  {
+    "id": 3,
+    "teacher": "Зенович А.В.",
+    "department": "ФИОУ"
+  },
+  {
+    "id": 4,
+    "teacher": "Овчинников С.А.",
+    "department": "КНЭМ"
+  }
+]
